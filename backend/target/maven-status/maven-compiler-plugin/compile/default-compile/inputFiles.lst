@@ -1,0 +1,9 @@
+C:\Users\luisr\Desktop\proyecto\backend\src\main\java\com\universidad\estudiantes\config\CorsConfig.java
+C:\Users\luisr\Desktop\proyecto\backend\src\main\java\com\universidad\estudiantes\controller\EstudianteController.java
+C:\Users\luisr\Desktop\proyecto\backend\src\main\java\com\universidad\estudiantes\EstudiantesApplication.java
+C:\Users\luisr\Desktop\proyecto\backend\src\main\java\com\universidad\estudiantes\exception\EmailDuplicadoException.java
+C:\Users\luisr\Desktop\proyecto\backend\src\main\java\com\universidad\estudiantes\exception\GlobalExceptionHandler.java
+C:\Users\luisr\Desktop\proyecto\backend\src\main\java\com\universidad\estudiantes\exception\RecursoNoEncontradoException.java
+C:\Users\luisr\Desktop\proyecto\backend\src\main\java\com\universidad\estudiantes\model\Estudiante.java
+C:\Users\luisr\Desktop\proyecto\backend\src\main\java\com\universidad\estudiantes\repository\EstudianteRepository.java
+C:\Users\luisr\Desktop\proyecto\backend\src\main\java\com\universidad\estudiantes\service\EstudianteService.java

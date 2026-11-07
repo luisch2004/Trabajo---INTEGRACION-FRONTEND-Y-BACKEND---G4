@@ -1,0 +1,10 @@
+com\universidad\estudiantes\config\CorsConfig$1.class
+com\universidad\estudiantes\exception\RecursoNoEncontradoException.class
+com\universidad\estudiantes\controller\EstudianteController.class
+com\universidad\estudiantes\model\Estudiante.class
+com\universidad\estudiantes\EstudiantesApplication.class
+com\universidad\estudiantes\config\CorsConfig.class
+com\universidad\estudiantes\service\EstudianteService.class
+com\universidad\estudiantes\exception\GlobalExceptionHandler.class
+com\universidad\estudiantes\repository\EstudianteRepository.class
+com\universidad\estudiantes\exception\EmailDuplicadoException.class
